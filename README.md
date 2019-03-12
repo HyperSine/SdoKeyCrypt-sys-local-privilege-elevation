@@ -2,9 +2,13 @@
 
 ## 1. What is SdoKeyCrypt.sys?
 
-__SdoKeyCrypt.sys__ is a keyboard protection driver for a MMORPG, aka Massively-Multiplayer-Online-Role-Playing-Game, called [___MapleStory Online___](https://en.wikipedia.org/wiki/MapleStory) which is published by [Shanda Group](https://en.wikipedia.org/wiki/Shanda) in China. 
+__SdoKeyCrypt.sys__ is a keyboard protection driver for a MMORPG, aka Massively-Multiplayer-Online-Role-Playing-Game, called [___MapleStory Online___](https://en.wikipedia.org/wiki/MapleStory) which is published by [_Shanda Group_](https://en.wikipedia.org/wiki/Shanda) in China. 
 
-You can see there's a valid digest signature signed by _Shanda Computer (Shanghai) Co., Ltd._ which confirms this driver is indeed made by _Shanda_.
+This driver will be downloaded and installed in `C:\Windows\System32\` folder when the game runs first time. Because the game is very big, approximately 13.11 GB, here I made a backup [SdoKeyCrypt.sys](SdoKeyCrypt.sys) for anyone who wants to reproduce this exploit.
+
+__`SdoKeyCrypt.sys` is surely OFFICIAL and is NOT modified by anyone.__ 
+
+You can see there's a valid digest signature signed by _Shanda Computer (Shanghai) Co., Ltd._ which confirms `SdoKeyCrypt.sys` is indeed made by _Shanda_.
 
 ![](pic0.png)
 
