@@ -48,6 +48,8 @@ ntdll.lib
 poc.obj
 ```
 
+Then make sure that `SdoKeyCrypt.sys` is loaded and run `poc.exe` directly. If nothing wrong, you should get a `nt authority\system` shell.
+
 ## 4. Screenshot
 
 The PoC code has been tested and works fine on __Win10 1709__ and __Win10 1803__.
