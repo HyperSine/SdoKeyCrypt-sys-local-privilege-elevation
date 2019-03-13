@@ -4,6 +4,8 @@
 
 __SdoKeyCrypt.sys__ is a keyboard protection driver for a MMORPG, aka Massively-Multiplayer-Online-Role-Playing-Game, called [___MapleStory Online___](https://en.wikipedia.org/wiki/MapleStory) which is published by [_Shanda Group_](https://en.wikipedia.org/wiki/Shanda) in China. 
 
+The game's official website: [http://mxd.sdo.com](http://mxd.sdo.com). (Language: Chinese)
+
 This driver will be downloaded and installed in `C:\Windows\System32\` folder when the game runs first time. Because the game is very big, approximately 13.11 GB, here I made a backup [SdoKeyCrypt.sys](SdoKeyCrypt.sys) for anyone who wants to reproduce this exploit.
 
 __`SdoKeyCrypt.sys` is surely OFFICIAL and is NOT modified by anyone.__ 
